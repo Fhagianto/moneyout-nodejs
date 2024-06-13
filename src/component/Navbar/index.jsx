@@ -4,7 +4,7 @@ function Navbar(props) {
   return (
     <nav className='flex flex-col'>
         <p className='text-xs md:text-base font-normal'>
-            selamat pagi,
+            haloow,
         </p>
         <div className='flex justify-between items-center'>
             <h1 className='text-base md:text-xl font-semibold'>
